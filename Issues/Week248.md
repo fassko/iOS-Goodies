@@ -20,7 +20,7 @@
 
 **Videos**
 
-* 
+* [Swift & Fika](https://www.youtube.com/watch?v=EPXodAD6wXI) - Full videos from Swift & Fika conference in Stockholm, Sweden. Talks by [@simjp](https://twitter.com/simjp), (@johnsundell)[https://twitter.com/johnsundell], (@twostraws)[https://twitter.com/twostraws] and more.
 
 **Credits**
 

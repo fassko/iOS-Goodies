@@ -18,8 +18,8 @@
 
 **Videos**
 
-* 
+* [Functional Swift Conference videos](https://www.youtube.com/watch?v=9UqDk33pkKA&list=PLEfMnf7gx29rTCcwIwNLhM2Ii65bNUAlL) by [Brandon Williams](https://twitter.com/mbrandonw)
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [pmusolino](https://www.github.com/pmusolino)
+* [onmyway133](https://github.com/onmyway133), [pmusolino](https://www.github.com/pmusolino), [fassko](https://github.com/fassko)
